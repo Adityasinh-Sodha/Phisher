@@ -1,0 +1,22 @@
+----------For Linux----------
+
+open your terminal and write this commands
+apt update
+apt upgrade
+apt install python3
+apt install git
+git clone https://github.com/AdityaSodha/Phisher
+cd Phisher
+python3 Phisher.py
+
+----------For Termux----------
+
+Open your termux and write this commands
+apt update
+apt upgrade
+termux-setup-storage (allow the pop-up)
+pkg install git
+pkg install python3
+git clone https://github.com/AdityaSodha/Phisher
+cd Phisher
+python3 Phisher.py

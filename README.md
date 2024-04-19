@@ -1,5 +1,6 @@
 # Phisher
-This is a simple python script for phishing this is for educational purposes only.
-I did not take any responsibilitys about what you are doing with this script.
-read installation.txt for the guide if you like the script plz follow me. 
-Thank you for using this script. If you found it helpful, please consider starring this repository. Your support is greatly appreciated!
+This is a basic Python script designed for educational purposes, specifically for phishing.
+I do not assume any responsibilities for how this script is utilized.
+Please refer to the installation.txt file for guidance on setting it up.
+If you appreciate the script, kindly consider following me and starring this repository.
+Your support is immensely valued. Thank you for using this script.

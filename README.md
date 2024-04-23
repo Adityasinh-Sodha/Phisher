@@ -13,5 +13,14 @@ apt install python3
 git clone https://github.com/AdityaSodha/Phisher
 cd Phisher
 python3 Phisher
-'''
+```
 ## For Termux
+```bash
+apt update
+apt upgrade
+pkg install python3
+pkg install git
+git clone https://github.com/AdityaSodha/Phisher
+cd Phisher
+python3 Phisher
+```

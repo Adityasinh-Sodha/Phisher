@@ -15,7 +15,7 @@ cd Phisher
 python3 Phisher
 ```
 ## For Termux
-```bash
+```shell
 apt update
 apt upgrade
 pkg install python3

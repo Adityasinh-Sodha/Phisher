@@ -5,7 +5,7 @@ If you appreciate the script, kindly consider following me and starring this rep
 Your support is immensely valued. Thank you for using this script.
 # Installation 
 ## For linux(Debian-based)
-```shell
+```bash
 apt update
 apt upgrade
 apt install git
@@ -15,7 +15,7 @@ cd Phisher
 python3 Phisher
 ```
 ## For Termux
-```shell
+```bash
 apt update
 apt upgrade
 pkg install python3

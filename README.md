@@ -26,4 +26,7 @@ git clone https://github.com/AdityaSodha/Phisher
 cd Phisher
 python3 Phisher.py
 ```
-
+## License
+Distributed under the MIT License. See LICENSE for more information.
+## Contact 
+Email adityasodha@yahoo.com or work.adityasodha@gmail.com

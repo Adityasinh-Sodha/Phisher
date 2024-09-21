@@ -13,7 +13,7 @@ apt update
 apt upgrade
 apt install git
 apt install python3
-git clone https://github.com/AdityaSodha/Phisher
+git clone https://github.com/Adityasinh-Sodha/Phisher
 cd Phisher
 python3 Phisher.py
 ```
@@ -23,7 +23,7 @@ apt update
 apt upgrade
 pkg install python3
 pkg install git
-git clone https://github.com/AdityaSodha/Phisher
+git clone https://github.com/Adityasinh-Sodha/Phisher
 cd Phisher
 python3 Phisher.py
 ```

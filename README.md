@@ -11,6 +11,8 @@ This tool supports in all-most every social media platform.
 ```bash
 apt update
 apt upgrade
+pip install cryptography
+pip install pycryptodome
 apt install git
 apt install python3
 git clone https://github.com/Adityasinh-Sodha/Phisher
@@ -21,6 +23,8 @@ python3 Phisher.py
 ```bash
 apt update
 apt upgrade
+pip install cryptography
+pip install pycryptodome
 pkg install python3
 pkg install git
 git clone https://github.com/Adityasinh-Sodha/Phisher

@@ -17,7 +17,7 @@ apt install git
 apt install python3
 git clone https://github.com/Adityasinh-Sodha/PhisherMan
 cd Phisher
-python3 Phisher.py
+python3 PhisherMan.py
 ```
 ## For Termux
 ```bash
@@ -29,7 +29,7 @@ pkg install python3
 pkg install git
 git clone https://github.com/Adityasinh-Sodha/PhisherMan
 cd Phisher
-python3 Phisher.py
+python3 PhisherMan.py
 ```
 ## License
 Distributed under the MIT License. See LICENSE for more information.

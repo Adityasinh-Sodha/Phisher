@@ -24,8 +24,3 @@ RUN apt-get clean
 # Main command
 CMD ["python3", "Phisher.py", "--noupdate"]
 
-## Wanna run it own? Try following commnads:
-
-## "sudo docker build . -t kasroudra/maxphisher:latest", "sudo docker run --rm -it kasroudra/maxphisher:latest"
-
-## "sudo docker pull kasroudra/maxphisher", "sudo docker run --rm -it kasroudra/maxphisher"

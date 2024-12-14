@@ -1,4 +1,5 @@
 requests
 rich
 beautifulsoup4
-Crypto
+cryptography
+pycryptodome

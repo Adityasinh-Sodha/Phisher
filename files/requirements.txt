@@ -1,3 +1,4 @@
 requests
 rich
 beautifulsoup4
+Crypto
